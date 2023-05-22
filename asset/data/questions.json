@@ -1,0 +1,368 @@
+[
+  {
+    "index": "0",
+    "category-icon": "<svg id='Calque_2' data-name='Calque 2' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 22.82035 31.93863' fill='#cd2927'><path d='M22.63882,27.90631H16.97716c-.16366-3.02794.1112-5.89894,2.48992-8.10688,1.5833-1.46963,3.23722-2.86307,4.83321-4.31938a3.74426,3.74426,0,0,0-.24977-5.32486c-1.74341-1.65459-5.49914-1.64655-7.23969-.35177a6.5051,6.5051,0,0,0-2.38072,3.63136c-.05711.20625-.10715.41446-.17349.67242l-5.6668-.65407A8.53605,8.53605,0,0,1,9.79433,9.216a9.99389,9.99389,0,0,1,7.25214-4.90825c3.71515-.564,7.4305-.42713,10.62773,1.94192a8.25229,8.25229,0,0,1,3.68623,7.79785A7.08292,7.08292,0,0,1,29.153,18.42543c-1.69508,1.64651-3.44953,3.23324-5.20714,4.81385a4.2918,4.2918,0,0,0-1.30218,3.148C22.614,26.86831,22.63882,27.35268,22.63882,27.90631Z' transform='translate(-8.58982 -4.03068)'/><path d='M22.59465,35.96932H16.97572v-6.004h5.61893Z' transform='translate(-8.58982 -4.03068)'/></svg>",
+    "icon_white" : "<svg id='Calque_1' data-name='Calque 1' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 22.82035 31.93863' fill='white'><path d='M22.63882,27.90631H16.97716c-.16366-3.02794.1112-5.89894,2.48992-8.10688,1.5833-1.46963,3.23722-2.86307,4.83321-4.31938a3.74426,3.74426,0,0,0-.24977-5.32486c-1.74341-1.65459-5.49914-1.64655-7.23969-.35177a6.5051,6.5051,0,0,0-2.38072,3.63136c-.05711.20625-.10715.41446-.17349.67242l-5.6668-.65407A8.53605,8.53605,0,0,1,9.79433,9.216a9.99389,9.99389,0,0,1,7.25214-4.90825c3.71515-.564,7.4305-.42713,10.62773,1.94192a8.25229,8.25229,0,0,1,3.68623,7.79785A7.08292,7.08292,0,0,1,29.153,18.42543c-1.69508,1.64651-3.44953,3.23324-5.20714,4.81385a4.2918,4.2918,0,0,0-1.30218,3.148C22.614,26.86831,22.63882,27.35268,22.63882,27.90631Z' transform='translate(-8.58982 -4.03068)'/><path d='M22.59465,35.96932H16.97572v-6.004h5.61893Z' transform='translate(-8.58982 -4.03068)'/></svg>",
+    "category-name": "Général",
+    "lesQuestions": [
+      {
+        "category": "Général",
+        "index" : "contrat_telephone",
+        "question": "Pouvons-nous tout faire par téléphone (réservation et contrat) ?",
+        "reponse": "Oui, vous estimez la taille du box dont vous avez besoin par téléphone avec nos conseillers ou directement sur notre simulateur en ligne puis vous réservez votre box et finalisez votre contrat à distance. Rien de plus simple !"
+      },
+      {
+        "category": "Général",
+        "index" : "fonctionnement_location",
+        "question": "Comment cela se passe t-il pour louer un box ?",
+        "reponse": "Vous pouvez louer un box en 2 minutes depuis notre site internet ou contacter les conseillers spécialisés. Ils vous guideront dans le choix de la taille de box qui convient à votre besoin. Le contrat à distance est établi en quelques minutes. Vous accédez ensuite à votre box quand vous le souhaitez en toute autonomie."
+      },
+      {
+        "category": "Général",
+        "index" : "condition_resiliation",
+        "question": "Quelles sont les conditions de départ ? Comment arrêter le contrat ?",
+        "reponse": "Pour mettre fin à votre contrat, vous avez 2 possibilités :<br><br><ul style='list-style-type: decimal;'><li>Indiquer la date de départ souhaitée sur votre <a href='https://www.annexx.com/uai'>Espace Client Annexx</a></li><li>Envoyer un email ou contacter vos conseillers par téléphone</li></ul><br><strong>Comment ça marche ?</strong><br>La date de fin de votre préavis est située :<br><ul><li>entre le 1er et le 14 du mois : votre contrat prendra fin le 15 du mois</li><li>entre le 15 et le dernier jour du mois : votre contrat prendra fin le dernier jour du mois</li></ul>"
+      },
+      {
+        "category": "Général",
+        "index" : "formalite_location",
+        "question": "Quelles sont les formalités administratives pour louer un box ? Quels papiers fournir pour louer un box ?",
+        "reponse": "Pour établir votre contrat de location de box, il vous suffit de vous munir d’une pièce d’identité en cours de validité et d’une carte bancaire."
+      },
+      {
+        "category": "Général",
+        "index" : "tarif_fixe",
+        "question": "Le tarif est-il fixe ou évoluera-t-il si je n’en ai pas besoin à la date indiquée dans ma réservation ? ",
+        "reponse": "On peut reporter la réservation (selon les disponibilités). Le tarif de votre réservation est garanti pendant 1 mois. Vous pouvez modifier la date de démarrage de votre contrat sans aucun frais. Tarifs et promotions garantis pendant 30 jours à compter de votre date de réservation."
+      },
+      {
+        "category": "Général",
+        "index" : "arriver_apres_heure",
+        "question": "Est-il possible d’arriver en dehors des horaires d’ouverture de l’Agence ?",
+        "reponse": "<strong>Oui.</strong> Lorsque vous avez finalisé votre contrat à distance, vous recevez un email contenant toutes les indications pour accéder à votre box en toute autonomie (code, étage, …) Les box sont accessibles de 6h à 23h dans la majorité des centres Annexx."
+      },
+      {
+        "category": "Général",
+        "index" : "tout_compris",
+        "question": "Est-ce que dans le prix tout est compris (frais de dossier, caution, garantie…) ?",
+        "reponse": "<strong>Tout est compris dans le prix</strong> de votre location de box, avec Annexx, vous n’avez aucune mauvaise surprise lors du paiement de votre cotisation mensuelle avec la garantie de nos contrats sans frais."
+      },
+      {
+        "category": "Général",
+        "index" : "assurance_specifique",
+        "question": "Proposez-vous une assurance spécifique ?",
+        "reponse": "<strong>Oui,</strong> grâce à son partenaire UMANN, Annexx vous propose une assurance spécifiquement étudiée pour répondre aux besoins de la mise disposition de box. Rapide, économique et réactive, l’assurance UMANN vous offre toutes les garanties dont vous avez besoin pour stocker l’esprit serein."
+      },
+      {
+        "category": "Général",
+        "index" : "assurance_obligatoire",
+        "question": "L’assurance est-elle obligatoire ?",
+        "reponse": "<strong>Oui.</strong> L’assurance est obligatoire tout comme pour toute location immobilière.<br><strong>Le saviez-vous ?</strong> Lorsque vous souscrivez à l’assurance, évaluez le montant des biens que vous souhaitez stocker dans un box. C’est sur la base de ce montant que vous serez indemnisé en cas de besoin."
+      },
+      {
+        "category": "Général",
+        "index" : "cout_assurance",
+        "question": "Combien coûte l’assurance proposée par Annexx ?",
+        "reponse": "Notre assurance est accessible <strong>à partir de 0,39€ / jour</strong>"
+      },
+      {
+        "category": "Général",
+        "index" : "cadenas_inclus",
+        "question": "Le cadenas est inclus dans la location ?",
+        "reponse": "Non, en revanche, lorsque vous effectuez votre réservation vous pouvez acheter un cadenas (16,90€) ou louer un cadenas (1,99€/mois)."
+      },
+      {
+        "category": "Général",
+        "index" : "remise_cles",
+        "question": "Comment cela se passe-t-il pour la remise de clés ?",
+        "reponse": "Il n’y a pas de remise de clé car nos box sont équipés de cadenas à code. Lorsque vous signez votre contrat, vous recevez un email vous indiquant toutes les modalités d’accès ainsi que le code du cadenas LOXX mis en place sur votre box."
+      },
+      {
+        "category": "Général",
+        "index" : "dimensions_ascenseurs",
+        "question": "Quelles sont les dimensions des ascenseurs / monte-charge ?",
+        "reponse": "Les dimensions des ascenseurs et monte-charge peuvent varier d’un centre à l’autre en place. Ils disposent, pour la plupart, d’une ouverture large et vous offrent ainsi la possibilité d’y placer toutes vos affaires. "
+      },
+      {
+        "category": "Général",
+        "index" : "annexx_et_garde_meuble",
+        "question": "Quelle est la différence entre Annexx et un garde-meuble traditionnel ?",
+        "reponse": "Annexx vous permet de stocker temporairement vos biens et de manière très simple. Les principales différences avec le service des garde-meubles traditionnels sont les suivantes : <br><br><ul><li>Les biens sont stockés dans des pièces (appelées box) fermées à clé et non pas dans des containers</li> <li>Vous pouvez accéder à votre box quand vous le souhaitez sans prévenir ni payer de frais supplémentaires</li> <li>Vous pouvez stocker vos affaires directement et sans contrainte</li> <li>Le préavis est seulement de 15 jours.</li></ul>"
+      },
+      {
+        "category": "Général",
+        "index" : "box_stockage",
+        "question": "Qu'est ce qu'un box de stockage ?",
+        "reponse": "Un box de stockage est une pièce entourée de parois, fermée à clé (cadenas ou verrou) dans laquelle il est possible de stocker vos affaires.<br>Que ce soit pour 1 mois ou 1 an, un box de stockage peut vous servir à entreposer vos affaires en toutes occasions et pour la durée que vous souhaitez."
+      },
+      {
+        "category": "Général",
+        "index" : "services_professionnels",
+        "question": "Quels sont les services proposés aux professionnels ?",
+        "reponse": "Nous proposons l'ensemble des services visant à faciliter la gestion des stocks à l'ensemble des professionnels et artisans.<br><br><ul><li>Solutions de stockage et archivage</li><li>Domiciliation</li><li>Réception de marchandises avec traçabilité</li><li>Location de place de parking</li><li>Salle de réunion</li><li>Bureau / coworking</li></ul><br><p>Pour les Grands Comptes ayant besoin d'une solution de stockage partout en France, nous proposons un système de contrat unique et facturation centralisée. En savoir plus sur le<a href='https://stockagenational.com/' target='_blank' rel='noopener'> Stockage National</a></p>."
+      },
+      {
+        "category": "Général",
+        "index" : "fournir_son_cadenas",
+        "question": "Dois-je fournir mon propre cadenas ?",
+        "reponse": "Oui. Vous pouvez utiliser un cadenas que vous possédez déjà ou vous pouvez en acheter un dans notre <a href='https://www.boutiquedudemenagement.com/' target='_blank' rel='noopener'>boutique du déménagement</a> située dans l'Agence de votre centre Annexx. Vous pouvez alors choisir un cadenas à clé ou un cadenas à code."
+      },
+      {
+        "category": "Général",
+        "index" : "tarifs_location",
+        "question": "Quels sont les tarifs de location de box ?",
+        "reponse": "Pour connaître les tarifs de location de box, rendez-vous sur notre page de réservation en ligne. <strong>Le saviez-vous ?</strong> Les tarifs web vous permettent de bénéficier d'un tarif préférentiel allant jusqu'à <strong>-20% de réduction !</strong>"
+      },
+      {
+        "category": "Général",
+        "index" : "horaires_ouvertures_agence",
+        "question": "Quels sont les horaires d'ouverture des agences Annexx ?",
+        "reponse": "Vous pouvez accéder à nos centres de self stockage de 6h à 23h dans la plupart des centres et ce, en illimité 7 jours sur 7. L'agence est ouverte du lundi au vendredi de 9h à 12h30 et de 13h15 à 17h30 et le samedi de 9h à 13h."
+      },
+      {
+        "category": "Général",
+        "index" : "difference_horaires_agences_centre",
+        "question": "Quelles est la différence entre les horaires d'ouverture de l'agence et ceux d'accès au centre ?",
+        "reponse": "Pendant les horaires d’ouverture de nos Agences, nos conseillers sont sur place pour vous renseigner et vous accompagner dans votre recherche d’espace de stockage ou pour votre déménagement. Vous pouvez également acheter des cartons et du matériel d’emballage directement sur place sur ces mêmes plages horaires (lun-ven : 9h-12h30 ; 13h15-17h30 et sam : 9h-13h).<br>Les horaires d’accès au centre correspondent aux heures durant lesquelles vous pouvez vous rendre à votre box de stockage ( pour votre Centre Annexx )."
+      },
+      {
+        "category": "Général",
+        "index" : "stationnement_bateau_voiture_moto",
+        "question": "Proposez-vous des emplacements pour stationner bateau / voiture / moto ?",
+        "reponse": "Dans la majorité de nos centres, nous proposons des emplacements à louer pour la plupart des véhicules, dans la mesure où ils sont immatriculés, assurés et en état de rouler.<br>Pour en savoir plus, contactez nos conseillers.<br>Vous souhaitez stocker des pneus dans un box ? C’est possible ! Par mesure de sécurité, vous ne pouvez pas stocker plus de 4 pneus dans un box."
+      },
+      {
+        "category": "Général",
+        "index" : "contacter_annexx",
+        "question": "Comment contacter Annexx ?",
+        "reponse": "Vous pouvez contacter vos conseillers en Agence directement en saisissant le numéro de téléphone correspondant. Vous pourrez trouver ce numéro sur notre site directement sur la page de votre Centre.<br>Vous souhaitez contacter le siège ? Envoyez un email sur contact@annexx.com"
+      },
+      {
+        "category": "Général",
+        "index" : "parrainer",
+        "question": "Puis-je parrainer quelqu'un ?",
+        "reponse": "Oui ! Pour faire une demande de parrainage, rendez-vous sur <a href='https://www.annexx.com/parrainage.php' target='_blank' rel='noopener'>la page dédiée</a> et suivez les instructions.<br>Pour tout nouveau parrainage effectif, vous recevez le cadeau de votre choix directement chez vous ! (écouteurs sans fil ou montre connectée)."
+      },
+      {
+        "category": "Général",
+        "index" : "conditions_generales",
+        "question": "Où trouver les conditions générales ?",
+        "reponse": "Pour consulter nos Conditions Générales, téléchargez-les ici : <a href='https://www.annexx.com/pdf/cg.pdf' target'_blank' rel='noopener'>https://www.annexx.com/pdf/cg.pdf</a>"
+      }
+    ]
+  },
+  {
+    "index": "1",
+    "category-icon": "<svg id='Calque_2' data-name='Calque 2' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 22.38271' fill='#cd2927'><path d='M4.19188,8.877H36.19179V29.49808c-.79409,1.83589-1.53375,1.87661-3.65532,1.67573V16.60354H7.80914V31.25019c-.54177,0-1.0123.00106-1.48283-.0002a2.04409,2.04409,0,0,1-2.13412-2.168Q4.19121,18.97945,4.19188,8.877Zm28.05657,4.08717H8.09269l.06631.59617H32.24845Zm-.00075,1.21248H8.09361l.06473.59723H32.2477Zm.00039,1.21328H8.09312l.06558.59667H32.24809Z' transform='translate(-4.19179 -8.87696)'/><path d='M23.21721,18.17956v1.163H24.146l.05791-1.16287c.655,0,1.27959-.02235,1.90164.00789a.63312.63312,0,0,1,.632.70561c.00482,1.54783.008,3.09573-.002,4.64351a.6458.6458,0,0,1-.70852.7007q-2.32587.01344-4.65184-.00017a.64579.64579,0,0,1-.70616-.703c-.00963-1.54778-.00688-3.09568-.00167-4.64351a.63326.63326,0,0,1,.63432-.70329C21.92345,18.15742,22.54774,18.17956,23.21721,18.17956Z' transform='translate(-4.19179 -8.87696)'/><path d='M19.56372,26.37158h1.06485l.06867-1.05071a14.32877,14.32877,0,0,1,1.95276.03125.88629.88629,0,0,1,.553.65035c.04975,1.5244.04038,3.05146.01552,4.57708a.61745.61745,0,0,1-.71043.67993c-1.55082-.02609-3.1024-.01625-4.65359-.00565-.5239.00358-.70907-.24582-.70494-.74318.0123-1.481.015-2.96238-.00113-4.44335-.006-.54709.22516-.77271.76586-.75179.53388.02065,1.06918.00451,1.64943.00451Z' transform='translate(-4.19179 -8.87696)'/><path d='M26.75337,25.32v1.04419h1.0348l.06-1.04245a14.32945,14.32945,0,0,1,1.87021.02939.82533.82533,0,0,1,.50867.61132c.04412,1.54717.0216,3.09618.02467,4.6446.00089.44942-.22277.64548-.66308.6444-1.57368-.00387-3.14756-.015-4.721.00613-.52374.007-.67642-.312-.68245-.70692q-.03444-2.25479-.00184-4.51038c.0057-.43583.18217-.75989.73119-.72786C25.49362,25.34626,26.0762,25.32,26.75337,25.32Z' transform='translate(-4.19179 -8.87696)'/><path d='M16.05936,18.17985v1.16241h1.0633l.0624-1.16453a13.8977,13.8977,0,0,1,1.833.02789.82191.82191,0,0,1,.54066.58062c.045,1.6157.04755,3.23392-.00317,4.84929a.85874.85874,0,0,1-.60563.57884c-1.55073.05042-3.10386.02516-4.65622.02816a.5713.5713,0,0,1-.65133-.65659c.00308-1.572.01763-3.14435-.00865-4.71595a.60375.60375,0,0,1,.64272-.67829C14.85213,18.14706,15.43385,18.17985,16.05936,18.17985Z' transform='translate(-4.19179 -8.87696)'/><path d='M12.562,25.32025v1.037h1.05959V25.32488c.72932,0,1.41865-.02352,2.10348.02137.12537.00822.33036.29325.33281.453.02484,1.61485.03786,3.23094-.01277,4.84458a.85778.85778,0,0,1-.60443.579c-1.5941.04974-3.19051.0212-4.7861.03132-.3693.00234-.5279-.13164-.5256-.51081q.01491-2.4564-.00006-4.91294c-.00229-.37631.14954-.52367.522-.5143C11.25515,25.33136,11.86009,25.32025,12.562,25.32025Z' transform='translate(-4.19179 -8.87696)'/></svg>",
+    "icon_white" : "<svg id='Calque_1' data-name='Calque 1' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 22.38271' fill='white'><path d='M4.19188,8.877H36.19179V29.49808c-.79409,1.83589-1.53375,1.87661-3.65532,1.67573V16.60354H7.80914V31.25019c-.54177,0-1.0123.00106-1.48283-.0002a2.04409,2.04409,0,0,1-2.13412-2.168Q4.19121,18.97945,4.19188,8.877Zm28.05657,4.08717H8.09269l.06631.59617H32.24845Zm-.00075,1.21248H8.09361l.06473.59723H32.2477Zm.00039,1.21328H8.09312l.06558.59667H32.24809Z' transform='translate(-4.19179 -8.87696)'/><path d='M23.21721,18.17956v1.163H24.146l.05791-1.16287c.655,0,1.27959-.02235,1.90164.00789a.63312.63312,0,0,1,.632.70561c.00482,1.54783.008,3.09573-.002,4.64351a.6458.6458,0,0,1-.70852.7007q-2.32587.01344-4.65184-.00017a.64579.64579,0,0,1-.70616-.703c-.00963-1.54778-.00688-3.09568-.00167-4.64351a.63326.63326,0,0,1,.63432-.70329C21.92345,18.15742,22.54774,18.17956,23.21721,18.17956Z' transform='translate(-4.19179 -8.87696)'/><path d='M19.56372,26.37158h1.06485l.06867-1.05071a14.32877,14.32877,0,0,1,1.95276.03125.88629.88629,0,0,1,.553.65035c.04975,1.5244.04038,3.05146.01552,4.57708a.61745.61745,0,0,1-.71043.67993c-1.55082-.02609-3.1024-.01625-4.65359-.00565-.5239.00358-.70907-.24582-.70494-.74318.0123-1.481.015-2.96238-.00113-4.44335-.006-.54709.22516-.77271.76586-.75179.53388.02065,1.06918.00451,1.64943.00451Z' transform='translate(-4.19179 -8.87696)'/><path d='M26.75337,25.32v1.04419h1.0348l.06-1.04245a14.32945,14.32945,0,0,1,1.87021.02939.82533.82533,0,0,1,.50867.61132c.04412,1.54717.0216,3.09618.02467,4.6446.00089.44942-.22277.64548-.66308.6444-1.57368-.00387-3.14756-.015-4.721.00613-.52374.007-.67642-.312-.68245-.70692q-.03444-2.25479-.00184-4.51038c.0057-.43583.18217-.75989.73119-.72786C25.49362,25.34626,26.0762,25.32,26.75337,25.32Z' transform='translate(-4.19179 -8.87696)'/><path d='M16.05936,18.17985v1.16241h1.0633l.0624-1.16453a13.8977,13.8977,0,0,1,1.833.02789.82191.82191,0,0,1,.54066.58062c.045,1.6157.04755,3.23392-.00317,4.84929a.85874.85874,0,0,1-.60563.57884c-1.55073.05042-3.10386.02516-4.65622.02816a.5713.5713,0,0,1-.65133-.65659c.00308-1.572.01763-3.14435-.00865-4.71595a.60375.60375,0,0,1,.64272-.67829C14.85213,18.14706,15.43385,18.17985,16.05936,18.17985Z' transform='translate(-4.19179 -8.87696)'/><path d='M12.562,25.32025v1.037h1.05959V25.32488c.72932,0,1.41865-.02352,2.10348.02137.12537.00822.33036.29325.33281.453.02484,1.61485.03786,3.23094-.01277,4.84458a.85778.85778,0,0,1-.60443.579c-1.5941.04974-3.19051.0212-4.7861.03132-.3693.00234-.5279-.13164-.5256-.51081q.01491-2.4564-.00006-4.91294c-.00229-.37631.14954-.52367.522-.5143C11.25515,25.33136,11.86009,25.32025,12.562,25.32025Z' transform='translate(-4.19179 -8.87696)'/></svg>",
+    "category-name": "Mon box",
+    "lesQuestions": [
+      {
+        "category": "Mon box",
+        "index" : "changement_taille_box",
+        "question": "Puis-je changer de taille de box ? Est-ce gratuit ?",
+        "reponse": "C’est totalement gratuit !<br>Vous pouvez changer de box quand vous le voulez pour un espace plus petit ou plus grand sans aucun frais (sous réserve de disponibilité).<br>Le montant de votre redevance mensuelle sera automatiquement ajusté en fonction de la taille de votre nouvel espace de stockage."
+      },
+      {
+        "category": "Mon box",
+        "index" : "box_de_nuit",
+        "question": "Puis-je accéder à mon box la nuit ?",
+        "reponse": "Vous pouvez accéder à votre box de stockage de 6h à 23h dans la plupart des centres en illimité 7 jours sur 7. Pour bénéficier d’un accès étendu, contactez vos conseillers.<br>Nos espaces accueil sont ouverts du lundi au vendredi de 9h à 12h30 et de 13h15 à 17h30 et le samedi de 9h à 13h."
+      },
+      {
+        "category": "Mon box",
+        "index" : "entretien_centre_annexx",
+        "question": "Comment les centres Annexx sont-ils entretenus ?",
+        "reponse": "Nous avons à cœur de vous proposer le meilleur service pour votre location de box. Afin de garantir la protection de vos affaires et la sécurité de nos clients, nous déployons tous les meilleurs systèmes de surveillance. L’ensemble des dispositifs sont vérifiés quotidiennement par nos équipes sur place et la maintenance est assurée par un prestataire expert dans le self stockage.<br>Pour vous offrir un service confortable dans un cadre sain, nos intervenants veillent à la propreté du bâtiment et notre équipe sur place effectue régulièrement des vérifications.<br>Si vous constatez un problème de propreté, merci de prévenir votre Centre en précisant le numéro du box le plus proche. "
+      },
+      {
+        "category": "Mon box",
+        "index" : "stockage_dans_box",
+        "question": "Que puis-je stocker dans mon box ?",
+        "reponse": "Vous pouvez stocker des cartons, affaires saisonnières, du matériel professionnel, des documents...<br>Pour veiller à votre sécurité, certains produits sont cependant strictement interdits à l’intérieur des box.<br>Les produits interdits dans un box :</p><ul><li>Produits dangereux et/ou illicites</li><li>Animaux (vivants ou morts)</li><li>Denrées périssables hors contenant hermétique</li><li>Produits radioactifs</li><li>...</li></ul><p><a href='https://www.annexx.com/conseils-stockage/que-stocker.php' target='_blank' rel='noopener'>Découvrez la liste des objets interdits</a></p>"
+      },
+      {
+        "category": "Mon box",
+        "index" : "prises_electriques",
+        "question": "Les box disposent-ils de prises électriques ?",
+        "reponse": "Non. Nos boxes de stockage ne sont pas équipés de prises électriques. Cependant, il est possible de mettre en place un aménagement particulier pour les professionnels en fonction du matériel qui doit être branché. Cette prestation est soumise à facturation."
+      }
+    ]
+  },
+  {
+    "index": "2",
+    "category-icon": "<svg id='Calque_2' data-name='Calque 2' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 39.05776' fill='#cd2927'><path d='M4.04594,37.48549V20.30389c.07487-.18651.15207-.37213.22421-.55969.461-1.19848,1.54085-1.39984,2.59843-1.49483.59935-.05384.71022-.25236.69894-.78185-.02906-1.36373.02238-2.72941-.01633-4.09267a12.35416,12.35416,0,0,1,2.48648-7.93244A11.5119,11.5119,0,0,1,15.23111,1.4331c.93445-.35627,1.907-.61245,2.86226-.91408h3.90206c.0441.04.08355.10789.133.11615a12.193,12.193,0,0,1,7.5817,4.43863,12.74169,12.74169,0,0,1,2.81959,8.28395c.008,1.236-.0038,2.47212.00465,3.70811a2.11346,2.11346,0,0,0,.10482,1.00252c.09848.16382.54354.1165.83213.16925.187.03419.37407.07109.558.11869.86959.225,1.59706.61223,1.76639,1.60637a9.73935,9.73935,0,0,1,.23638,1.56739q.02712,7.44871-.00157,14.89753a5.41869,5.41869,0,0,1-.2823,1.62116A2.30951,2.30951,0,0,1,33.546,39.56809q-13.55411.00006-27.10821.00869a1.77194,1.77194,0,0,1-1.52682-.65823A15.24583,15.24583,0,0,1,4.04594,37.48549ZM26.92446,18.19688c.0497-.95044.134-1.84889.13375-2.74731-.00025-1.00991-.08739-2.01949-.1177-3.02978a6.38134,6.38134,0,0,0-1.83278-4.2902A6.549,6.549,0,0,0,19.718,5.97653a6.68083,6.68083,0,0,0-5.917,3.69276,6.80156,6.80156,0,0,0-.79837,3.11973c-.01821,1.03192-.09624,2.06344-.09183,3.0949.00326.76118.09677,1.522.15218,2.313ZM19.005,31.24045c0,.34661-.0214.69486.005,1.03944a1.22536,1.22536,0,0,0,1.05733,1.03848,1.01489,1.01489,0,0,0,.88546-1.07377c.00925-.54142.023-1.08421-.00476-1.62436a1.307,1.307,0,0,1,.38663-1.03165,2.073,2.073,0,0,0,.51-1.05716,1.86,1.86,0,0,0-3.2153-1.39232,1.63831,1.63831,0,0,0-.11129,2.25528A2.61735,2.61735,0,0,1,19.005,31.24045Z' transform='translate(-4.04594 -0.51902)'/></svg>",
+    "icon_white" : "<svg id='Calque_1' data-name='Calque 1' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 39.05776' fill='white'><path d='M4.04594,37.48549V20.30389c.07487-.18651.15207-.37213.22421-.55969.461-1.19848,1.54085-1.39984,2.59843-1.49483.59935-.05384.71022-.25236.69894-.78185-.02906-1.36373.02238-2.72941-.01633-4.09267a12.35416,12.35416,0,0,1,2.48648-7.93244A11.5119,11.5119,0,0,1,15.23111,1.4331c.93445-.35627,1.907-.61245,2.86226-.91408h3.90206c.0441.04.08355.10789.133.11615a12.193,12.193,0,0,1,7.5817,4.43863,12.74169,12.74169,0,0,1,2.81959,8.28395c.008,1.236-.0038,2.47212.00465,3.70811a2.11346,2.11346,0,0,0,.10482,1.00252c.09848.16382.54354.1165.83213.16925.187.03419.37407.07109.558.11869.86959.225,1.59706.61223,1.76639,1.60637a9.73935,9.73935,0,0,1,.23638,1.56739q.02712,7.44871-.00157,14.89753a5.41869,5.41869,0,0,1-.2823,1.62116A2.30951,2.30951,0,0,1,33.546,39.56809q-13.55411.00006-27.10821.00869a1.77194,1.77194,0,0,1-1.52682-.65823A15.24583,15.24583,0,0,1,4.04594,37.48549ZM26.92446,18.19688c.0497-.95044.134-1.84889.13375-2.74731-.00025-1.00991-.08739-2.01949-.1177-3.02978a6.38134,6.38134,0,0,0-1.83278-4.2902A6.549,6.549,0,0,0,19.718,5.97653a6.68083,6.68083,0,0,0-5.917,3.69276,6.80156,6.80156,0,0,0-.79837,3.11973c-.01821,1.03192-.09624,2.06344-.09183,3.0949.00326.76118.09677,1.522.15218,2.313ZM19.005,31.24045c0,.34661-.0214.69486.005,1.03944a1.22536,1.22536,0,0,0,1.05733,1.03848,1.01489,1.01489,0,0,0,.88546-1.07377c.00925-.54142.023-1.08421-.00476-1.62436a1.307,1.307,0,0,1,.38663-1.03165,2.073,2.073,0,0,0,.51-1.05716,1.86,1.86,0,0,0-3.2153-1.39232,1.63831,1.63831,0,0,0-.11129,2.25528A2.61735,2.61735,0,0,1,19.005,31.24045Z' transform='translate(-4.04594 -0.51902)'/></svg>",
+    "category-name": "Sécurité",
+    "lesQuestions": [
+      {
+        "category": "Sécurité",
+        "index" : "securite_centres_annexx",
+        "question": "Quels sont les moyens mis en place pour assurer la sécurité des Centres Annexx ?",
+        "reponse": "Pour garantir la protection de vos affaires, toutes les dispositions sont prises dans l’ensemble des centres de self stockage du réseau Annexx :<ul><li>Contrôle d'accès</li><li>Portail à fermeture automatique,</li><li>Télésurveillance 24h/24 & 7j/7</li><li>Centres clôturés et éclairés</li><li>Alarmes individuelles dans chaque box de rangement</li><li>Contrôle de la température et du taux d’humidité</li><li>Système de ventilation automatique</li><li>Détection incendie</li></ul><p>Pour plus d'informations sur la protection et les systèmes de sécurité Annexx, contactez nos conseillers.</p>"
+      },
+      {
+        "category": "Sécurité",
+        "index" : "rongeurs_proprete",
+        "question": "Comment luttez-vous contre les rongeurs ? Assurez-vous la propreté du site ?",
+        "reponse": "Chaque bâtiment Annexx est traité contre les rongeurs et nuisibles chaque mois. Afin de repousser ces nuisibles, nous interdisons le stockage de denrées alimentaires qui ne sont pas fermées hermétiquement."
+      },
+      {
+        "category": "Sécurité",
+        "index" : "eclairage_nuit",
+        "question": "Le centre est-il éclairé la nuit ?",
+        "reponse": "Oui, tous nos centres sont éclairés pour garantir la surveillance nocturne. Les parkings et espaces extérieurs sont éclairés et surveillés 24h/24 et 7 jours sur 7.<br>Dans le cadre de nos engagements RSE, les couloirs de box sont équipés d’un système d’éclairage automatique à détecteurs. Ainsi les lumières ne s’allument que lorsqu’un mouvement est détecté."
+      },
+      {
+        "category": "Sécurité",
+        "index" : "securite_dans_box",
+        "question": "Quels sont les dispositifs de sécurité mis en place dans les box ?",
+        "reponse": "Outre les installations mises en place dans l'ensemble de nos locaux (portail à verrouillage automatique, digicode, caméras), nos box sont équipés d'une alarme individuelle. Lorsque vous venez dans votre box, la saisie de votre code personnel permet de désactiver cette alarme à votre arrivée et de la réactiver à votre départ."
+      }
+    ]
+  },
+  {
+    "index": "3",
+    "category-icon": "<svg id='Calque_2' data-name='Calque 2' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32.24254 22.80894' fill='#cd2927'><path d='M12.97169,31.53988H11.21461a.97271.97271,0,0,0-.17586-.08985,3.81449,3.81449,0,0,1-2.39469-1.76351,14.82019,14.82019,0,0,1-.81243-2.08835c-.42118-.02852-.9118-.08178-1.403-.08833-.35977-.0048-.72049.0774-1.08054.07541-.67333-.00373-1.33638-.529-1.33651-1.03563q-.0022-8.35725.00974-16.71447a1.08762,1.08762,0,0,1,.24983-.61083A1.56524,1.56524,0,0,1,5.59968,8.731c1.26808.00657,2.53589.07211,3.80393.0761,3.63061.01144,7.26128.00368,10.89193.00438a.97656.97656,0,0,1,1.10115.80721,6.393,6.393,0,0,1,.09271,1.03235c.00837,2.03261.00412,4.06527.00412,6.09792,0,3.07091.01178,6.14189-.01029,9.21264-.00425.59024-.01533,1.26086-.7674,1.47539a4.13941,4.13941,0,0,1-1.06174.14719c-1.16723.01778-2.33489.00668-3.50639.00668-.03894.22818-.06344.41351-.10284.59561A3.61006,3.61006,0,0,1,14.7273,30.5168C14.17808,30.90821,13.55936,31.20232,12.97169,31.53988Zm-.90113-5.96739a1.95626,1.95626,0,0,0-1.987,1.90766,1.96885,1.96885,0,1,0,3.93717.03964A1.94451,1.94451,0,0,0,12.07056,25.57249Z' transform='translate(-4.01043 -8.73094)'/><path d='M36.253,19.42959v7.63475c-.77955.76091-1.79408.4447-2.68847.54857-.0458.284-.06906.5286-.12618.765a3.3526,3.3526,0,0,1-1.60862,2.37618c-.511.27292-1.03349.52453-1.55079.78576H28.60968c-.10838-.05894-.21776-.11615-.325-.17713a11.73583,11.73583,0,0,1-1.59056-.92632,3.94762,3.94762,0,0,1-1.27766-2.84558c-.46766,0-.92154.03162-1.36945-.00666-.89819-.07677-1.3205-.10931-1.32171-1.31469q-.00689-6.84-.00162-13.68008c.00009-.84065.30272-1.145,1.139-1.14533,2.07771-.00083,4.15547.00624,6.23313-.00481a1.35011,1.35011,0,0,1,1.195.63173c1.13906,1.70024,2.25744,3.4143,3.3957,5.11508C35.19366,17.94393,35.72991,18.68235,36.253,19.42959Zm-9.385-.03532h6.79087c-.96754-1.43912-1.9592-2.79145-2.80937-4.22737a1.7292,1.7292,0,0,0-1.8916-1.0187,18.19025,18.19025,0,0,1-2.10492.016c0,1.71258-.00017,3.362.00061,5.01142C26.85358,19.24545,26.86252,19.31522,26.868,19.39427ZM31.421,27.48683a1.96225,1.96225,0,1,0-1.91637,2.015A1.92668,1.92668,0,0,0,31.421,27.48683Z' transform='translate(-4.01043 -8.73094)'/></svg>",
+    "icon_white" : "<svg id='Calque_1' data-name='Calque 1' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32.24254 22.80894' fill='white'><path d='M12.97169,31.53988H11.21461a.97271.97271,0,0,0-.17586-.08985,3.81449,3.81449,0,0,1-2.39469-1.76351,14.82019,14.82019,0,0,1-.81243-2.08835c-.42118-.02852-.9118-.08178-1.403-.08833-.35977-.0048-.72049.0774-1.08054.07541-.67333-.00373-1.33638-.529-1.33651-1.03563q-.0022-8.35725.00974-16.71447a1.08762,1.08762,0,0,1,.24983-.61083A1.56524,1.56524,0,0,1,5.59968,8.731c1.26808.00657,2.53589.07211,3.80393.0761,3.63061.01144,7.26128.00368,10.89193.00438a.97656.97656,0,0,1,1.10115.80721,6.393,6.393,0,0,1,.09271,1.03235c.00837,2.03261.00412,4.06527.00412,6.09792,0,3.07091.01178,6.14189-.01029,9.21264-.00425.59024-.01533,1.26086-.7674,1.47539a4.13941,4.13941,0,0,1-1.06174.14719c-1.16723.01778-2.33489.00668-3.50639.00668-.03894.22818-.06344.41351-.10284.59561A3.61006,3.61006,0,0,1,14.7273,30.5168C14.17808,30.90821,13.55936,31.20232,12.97169,31.53988Zm-.90113-5.96739a1.95626,1.95626,0,0,0-1.987,1.90766,1.96885,1.96885,0,1,0,3.93717.03964A1.94451,1.94451,0,0,0,12.07056,25.57249Z' transform='translate(-4.01043 -8.73094)'/><path d='M36.253,19.42959v7.63475c-.77955.76091-1.79408.4447-2.68847.54857-.0458.284-.06906.5286-.12618.765a3.3526,3.3526,0,0,1-1.60862,2.37618c-.511.27292-1.03349.52453-1.55079.78576H28.60968c-.10838-.05894-.21776-.11615-.325-.17713a11.73583,11.73583,0,0,1-1.59056-.92632,3.94762,3.94762,0,0,1-1.27766-2.84558c-.46766,0-.92154.03162-1.36945-.00666-.89819-.07677-1.3205-.10931-1.32171-1.31469q-.00689-6.84-.00162-13.68008c.00009-.84065.30272-1.145,1.139-1.14533,2.07771-.00083,4.15547.00624,6.23313-.00481a1.35011,1.35011,0,0,1,1.195.63173c1.13906,1.70024,2.25744,3.4143,3.3957,5.11508C35.19366,17.94393,35.72991,18.68235,36.253,19.42959Zm-9.385-.03532h6.79087c-.96754-1.43912-1.9592-2.79145-2.80937-4.22737a1.7292,1.7292,0,0,0-1.8916-1.0187,18.19025,18.19025,0,0,1-2.10492.016c0,1.71258-.00017,3.362.00061,5.01142C26.85358,19.24545,26.86252,19.31522,26.868,19.39427ZM31.421,27.48683a1.96225,1.96225,0,1,0-1.91637,2.015A1.92668,1.92668,0,0,0,31.421,27.48683Z' transform='translate(-4.01043 -8.73094)'/></svg>",
+    "category-name": "Assurance",
+    "lesQuestions": [
+      {
+        "category": "Assurance",
+        "index" : "obligation_assurance_box",
+        "question": "Suis-je obligé de souscrire une assurance pour mon box de stockage ?",
+        "reponse": "Oui.<br>Comme pour toute location immobilière, vous avez l’obligation de souscrire à une police d’assurance.<br>Vous pouvez alors la souscrire directement auprès des conseillers Annexx lors de la signature de votre contrat de location de box.<br>Vous souhaitez faire appel à votre propre assureur ? Contactez-le afin de vérifier que celui-ci propose bien une couverture pour le stockage.<br>Dans les deux cas, le montant de votre redevance mensuelle évolue en fonction de la valeur à stocker que vous aurez déclarée. <a href='https://www.annexx.com/conseils-stockage/assurance.php' target='_blank' rel='noopener'>En savoir plus sur l’Assurance</a>."
+      },
+      {
+        "category": "Assurance",
+        "index" : "declaration_affaires_stockees",
+        "question": "Dois-je déclarer les affaires que je souhaite stocker ?",
+        "reponse": "Non. Cependant, vous devez communiquer leur valeur (pour l’assurance) afin que vos affaires soient bien couvertes en cas de sinistre. Pour toute question complémentaire, contactez vos conseillers spécialisés."
+      },
+      {
+        "category": "Assurance",
+        "index" : "changer_assurance",
+        "question": "Comment puis-je changer d'assurance ?",
+        "reponse": "Annexx propose une assurance dédiée au stockage. Pour modifier un contrat d’assurance souscrit avec Annexx lors de la signature de votre contrat, contactez vos conseillers."
+      },
+      {
+        "category": "Assurance",
+        "index" : "difference_entre_assurances",
+        "question": "Quelle différence entre l'assurance Annexx et mon assurance personnelle ?",
+        "reponse": "L’assurance proposée par UMANN est spécifique au self stockage, elle tient compte et couvre l’ensemble des risques potentiels. Les différents paliers proposés vous garantissent de choisir une couverture adaptée aux affaires que vous souhaitez stocker. Pour vous simplifier la vie, nous vous proposons la souscription à <a href='https://www.annexx.com/conseils-stockage/assurance.php' target='_blank' rel='noopener'>l’assurance spécialisée</a> lors de la signature de votre contrat. Vous n’aurez alors aucune démarche supplémentaire à faire.<br>Pour savoir si votre assureur habituel propose une couverture spécifique au stockage, contactez-le et vérifiez avec lui les différentes solutions proposées."
+      }
+    ]
+  },
+  {
+    "index": "4",
+    "category-icon": "<svg id='Calque_2' data-name='Calque 2' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' fill='#cd2927'><path d='M19.6875,4.0625h.75c.64945.30231.67824.88253.62152,1.473.4281.05406.81769.08177,1.19832.15563.88755.17222,1.78213.32481,2.65338.561a15.31848,15.31848,0,0,1,4.72241,2.24806A16.50158,16.50158,0,0,1,32.624,11.21057a13.995,13.995,0,0,1,2.37944,3.86979A12.74755,12.74755,0,0,1,35.9404,18.512c.02711.22678.08072.45039.1221.67546v1.75c-.37955.64041-.79452.81617-1.61526.48987a8.08438,8.08438,0,0,0-4.09459-.68163,6.595,6.595,0,0,0-3.55991,1.55568,1.04432,1.04432,0,0,1-1.43761.02854,8.51374,8.51374,0,0,0-1.10815-.76021,8.12677,8.12677,0,0,0-3.18448-.92026v.3767q0,5.16875.00277,10.33747c.00069.46407.0263.92906.0625,1.39189A1.46164,1.46164,0,0,0,22.93352,33.971a1.535,1.535,0,0,0,1.12065-1.51921,1.00431,1.00431,0,0,1,1.55726-.75239.99131.99131,0,0,1,.43281.625,3.22906,3.22906,0,0,1-1.48369,3.131A8.4852,8.4852,0,0,1,23.25,36.0625H21.875a3.9683,3.9683,0,0,1-2.03567-1.25237,3.13893,3.13893,0,0,1-.77213-1.92395c-.0099-3.96522-.0047-7.93048-.0047-11.89572v-.36081c-.389.06629-.73261.1118-1.07027.18472a6.99274,6.99274,0,0,0-3.25182,1.53329.81421.81421,0,0,1-.86778.20812,4.438,4.438,0,0,1-.8733-.53155,6.68874,6.68874,0,0,0-3.779-1.33055,7.83233,7.83233,0,0,0-3.45634.70326c-.77137.33032-1.31784.22864-1.70152-.45944v-1.75a.56725.56725,0,0,0,.0604-.1265c.18609-.92668.30688-1.872.5679-2.77687a13.50745,13.50745,0,0,1,2.10108-4.18678A15.45541,15.45541,0,0,1,9.48729,9.25088a15.69255,15.69255,0,0,1,3.77739-2.29707A16.53215,16.53215,0,0,1,17.38087,5.7511c.55327-.08318,1.10953-.14639,1.69795-.22307A1.2206,1.2206,0,0,1,19.6875,4.0625Z' transform='translate(-4.0625 -4.0625)'/></svg>",
+    "icon_white" : "<svg id='Calque_1' data-name='Calque 1' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' fill='white'><path d='M19.6875,4.0625h.75c.64945.30231.67824.88253.62152,1.473.4281.05406.81769.08177,1.19832.15563.88755.17222,1.78213.32481,2.65338.561a15.31848,15.31848,0,0,1,4.72241,2.24806A16.50158,16.50158,0,0,1,32.624,11.21057a13.995,13.995,0,0,1,2.37944,3.86979A12.74755,12.74755,0,0,1,35.9404,18.512c.02711.22678.08072.45039.1221.67546v1.75c-.37955.64041-.79452.81617-1.61526.48987a8.08438,8.08438,0,0,0-4.09459-.68163,6.595,6.595,0,0,0-3.55991,1.55568,1.04432,1.04432,0,0,1-1.43761.02854,8.51374,8.51374,0,0,0-1.10815-.76021,8.12677,8.12677,0,0,0-3.18448-.92026v.3767q0,5.16875.00277,10.33747c.00069.46407.0263.92906.0625,1.39189A1.46164,1.46164,0,0,0,22.93352,33.971a1.535,1.535,0,0,0,1.12065-1.51921,1.00431,1.00431,0,0,1,1.55726-.75239.99131.99131,0,0,1,.43281.625,3.22906,3.22906,0,0,1-1.48369,3.131A8.4852,8.4852,0,0,1,23.25,36.0625H21.875a3.9683,3.9683,0,0,1-2.03567-1.25237,3.13893,3.13893,0,0,1-.77213-1.92395c-.0099-3.96522-.0047-7.93048-.0047-11.89572v-.36081c-.389.06629-.73261.1118-1.07027.18472a6.99274,6.99274,0,0,0-3.25182,1.53329.81421.81421,0,0,1-.86778.20812,4.438,4.438,0,0,1-.8733-.53155,6.68874,6.68874,0,0,0-3.779-1.33055,7.83233,7.83233,0,0,0-3.45634.70326c-.77137.33032-1.31784.22864-1.70152-.45944v-1.75a.56725.56725,0,0,0,.0604-.1265c.18609-.92668.30688-1.872.5679-2.77687a13.50745,13.50745,0,0,1,2.10108-4.18678A15.45541,15.45541,0,0,1,9.48729,9.25088a15.69255,15.69255,0,0,1,3.77739-2.29707A16.53215,16.53215,0,0,1,17.38087,5.7511c.55327-.08318,1.10953-.14639,1.69795-.22307A1.2206,1.2206,0,0,1,19.6875,4.0625Z' transform='translate(-4.0625 -4.0625)'/></svg>",
+    "category-name": "Déménagement",
+    "lesQuestions": [
+      {
+        "category": "Déménagement",
+        "index" : "preter_materiels_dechargement",
+        "question": "Prêtez-vous du matériel pour le déchargement de la voiture ?",
+        "reponse": "Oui. Nous mettons à votre disposition des chariots et diables dans l'ensemble de nos centres Annexx. Vous pouvez les utiliser gratuitement pour charger ou décharger les cartons et meubles de votre véhicule et ainsi les transporter facilement du parking jusqu'à votre box."
+      },
+      {
+        "category": "Déménagement",
+        "index" : "achat_cartons_fournitures",
+        "question": "Puis-je acheter des cartons et autres fournitures de déménagement sur place ?",
+        "reponse": "Oui. Tous nos centres Annexx disposent d’une <a href='https://www.boutiquedudemenagement.com/' target='_blank' rel='noopener'>boutique du déménagement</a> située dans l’espace Accueil. Nous y proposons toutes les fournitures d’emballage, de protection et les cartons dont vous avez besoin pour déménager sans stress. Avec notre système de Click & Collect, commandez vos fournitures sur notre site et récupérez-les dans le centre Annexx de votre choix, quand vous le souhaitez !<br>Le saviez-vous ? Nous avons conçu une liste du matériel nécessaire en fonction de la quantité d’affaires à stocker (plus d’infos : <a href='https://www.boutiquedudemenagement.com/astuces-demenagement/' target='_blank' rel='noopener'>Quelle quantité de cartons prévoir ?</a>)."
+      },
+      {
+        "category": "Déménagement",
+        "index" : "camions_demenagements",
+        "question": "Proposez-vous des camions de déménagement ou une remise sur leur location ?",
+        "reponse": "Oui. Nous avons des tarifs négociés auprès de plusieurs sociétés partenaires de location de camion de déménagement. Apprenez-en plus sur ces tarifs en prenant contact avec vos conseillers."
+      },
+      {
+        "category": "Déménagement",
+        "index" : "aide_demenagement",
+        "question": "Pouvez-vous m'aider à déménager ?",
+        "reponse": "Oui ! Nous pouvons vous communiquer les coordonnées de déménageurs ou de sociétés de véhicules utilitaires partenaires. Pour découvrir les options disponibles dans votre Centre, contactez vos conseillers."
+      }
+    ]
+  },
+  {
+    "index": "5",
+    "category-icon": "<svg id='Calque_2' data-name='Calque 2' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 31.81904 31.8423' fill='#cd2927'><path d='M4.09048,6.15644H5.50224v.66665q0,12.10969-.00515,24.21939c-.00092.85459-.10739,1.70922-.10446,2.56363.00435,1.26942.40667,1.3853,1.34055,1.383Q16.9617,34.9637,27.19032,34.98h.78251v.94118H4.09048Z' transform='translate(-4.09048 -4.07885)'/><path d='M30.41725,29.03386v4.85608H6.48927V4.07885H21.97283v.63377c0,2.23491.02256,4.47018-.0133,6.70452-.01122.69938.21406.86234.90064.86,2.29369-.008,4.58743-.003,6.88116-.003h.69735c-.05136,2.02964.21363,4.0142-.54529,5.95739-.64679,1.65608-1.12851,3.37715-1.66564,5.075a3.14463,3.14463,0,0,0-.13135.90888c-.01313,1.47021-.017,2.94071-.00053,4.41084a15.08472,15.08472,0,0,0,.1268,1.79831.7127.7127,0,0,0,.34332.518.69239.69239,0,0,0,.57554-.22782C29.56272,30.21745,29.935,29.67877,30.41725,29.03386ZM13.708,6.039c-1.23444,0-2.46893.00626-3.70328-.00416-.33156-.0028-.5096.08067-.50715.45783.01133,1.74381-.01091,3.48811.02835,5.23111a.748.748,0,0,0,.50678.52609c2.42918.03526,4.859.02443,7.28872.02306a.57968.57968,0,0,0,.64868-.64368c.00538-1.6459.008-3.29187-.00171-4.93773-.0025-.42289-.17715-.67253-.67483-.66134C16.09887,6.057,14.90321,6.03884,13.708,6.039Zm3.04539,9.99984q-3.67172,0-7.34345.0002c-.15663,0-.35623-.05723-.46065.01739a1.179,1.179,0,0,0-.47392.55184c-.03268.11995.20768.37767.38037.47313a1.43125,1.43125,0,0,0,.668.12884q7.19657.01,14.39315.00489a1.21507,1.21507,0,0,0,.35084-.00872c.36288-.114.924-.08544.854-.64353-.06135-.48862-.53879-.52616-.96614-.5256Q20.45445,16.04205,16.75335,16.0388ZM16.736,24.627q2.58726,0,5.17453,0c.882,0,1.765.022,2.64534-.01687.20026-.00885.39121-.22856.58644-.35121-.12567-.19448-.21141-.44941-.38835-.56627a1.27272,1.27272,0,0,0-.6653-.11991q-7.23258-.009-14.46518.00043a2.09466,2.09466,0,0,0-.78923.12754c-.16239.06789-.37756.29993-.36127.43314.02155.17617.22533.35614.39206.478.09.06578.266.015.40315.015Q13.00211,24.6272,16.736,24.627Zm.0012-3.76477c2.58743,0,5.17493.00738,7.76218-.01483a.69669.69669,0,0,0,.5498-.33818c.04952-.17033-.11479-.43838-.2513-.61248-.06977-.089-.28267-.08964-.43091-.08976q-7.55649-.00625-15.113-.009c-.43414-.00075-.76421.15106-.79265.57757-.03352.50262.38217.4889.74877.48844Q12.97366,20.85925,16.73721,20.86226Zm.016,7.52948q2.76167,0,5.52335,0c.7247,0,1.45234.03592,2.17222-.02295a.824.824,0,0,0,.55987-.48187c.12656-.37616-.22777-.47473-.51274-.54544a1.74355,1.74355,0,0,0-.41-.00842Q16.741,27.33281,9.39614,27.333c-.11752,0-.23543-.00562-.35248.00194-.35849.02314-.63842.22844-.56866.56764.04.19441.36678.34469.586.47991.08524.05257.22976.00926.34728.00926Q13.08072,28.39177,16.75316,28.39174Zm6.04009,3.76468c1.25224,0,2.5045-.00451,3.75669.003.34059.002.6105.00211.61029-.47468-.00021-.479-.27429-.47275-.61258-.47208q-3.72735.00742-7.45471-.00109c-.30716-.00083-.62794-.00521-.63155.38621-.00345.37335.20274.57572.634.5672C20.32759,32.14059,21.56058,32.15637,22.79325,32.15642Z' transform='translate(-4.09048 -4.07885)'/><path d='M29.23764,23.49951c.65529-2.07544,1.288-4.08249,1.92276-6.08893.54234-1.71441,1.07723-3.4313,1.63842-5.13954a4.99784,4.99784,0,0,1,.517-1.01866.69977.69977,0,0,1,.37874-.24651,1.69355,1.69355,0,0,1,2.154,1.99763c-.50512,1.74607-1.08558,3.47046-1.64028,5.20206-.61857,1.931-1.259,3.85517-1.85479,5.79312-.1209.39327-.28425.44915-.62551.3321C30.91485,24.0519,30.09743,23.78558,29.23764,23.49951Z' transform='translate(-4.09048 -4.07885)'/><path d='M23.07262,4.81372l6.60962,6.37021H23.07262Z' transform='translate(-4.09048 -4.07885)'/><path d='M29.17445,28.57759V24.62816l2.49631.76906-2.34614,3.26414Z' transform='translate(-4.09048 -4.07885)'/><path d='M10.603,7.00584h6.16188v4.1628H10.603Z' transform='translate(-4.09048 -4.07885)'/></svg>",
+    "icon_white" : "<svg id='Calque_1' data-name='Calque 1' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 31.81904 31.8423' fill='white'><path d='M4.09048,6.15644H5.50224v.66665q0,12.10969-.00515,24.21939c-.00092.85459-.10739,1.70922-.10446,2.56363.00435,1.26942.40667,1.3853,1.34055,1.383Q16.9617,34.9637,27.19032,34.98h.78251v.94118H4.09048Z' transform='translate(-4.09048 -4.07885)'/><path d='M30.41725,29.03386v4.85608H6.48927V4.07885H21.97283v.63377c0,2.23491.02256,4.47018-.0133,6.70452-.01122.69938.21406.86234.90064.86,2.29369-.008,4.58743-.003,6.88116-.003h.69735c-.05136,2.02964.21363,4.0142-.54529,5.95739-.64679,1.65608-1.12851,3.37715-1.66564,5.075a3.14463,3.14463,0,0,0-.13135.90888c-.01313,1.47021-.017,2.94071-.00053,4.41084a15.08472,15.08472,0,0,0,.1268,1.79831.7127.7127,0,0,0,.34332.518.69239.69239,0,0,0,.57554-.22782C29.56272,30.21745,29.935,29.67877,30.41725,29.03386ZM13.708,6.039c-1.23444,0-2.46893.00626-3.70328-.00416-.33156-.0028-.5096.08067-.50715.45783.01133,1.74381-.01091,3.48811.02835,5.23111a.748.748,0,0,0,.50678.52609c2.42918.03526,4.859.02443,7.28872.02306a.57968.57968,0,0,0,.64868-.64368c.00538-1.6459.008-3.29187-.00171-4.93773-.0025-.42289-.17715-.67253-.67483-.66134C16.09887,6.057,14.90321,6.03884,13.708,6.039Zm3.04539,9.99984q-3.67172,0-7.34345.0002c-.15663,0-.35623-.05723-.46065.01739a1.179,1.179,0,0,0-.47392.55184c-.03268.11995.20768.37767.38037.47313a1.43125,1.43125,0,0,0,.668.12884q7.19657.01,14.39315.00489a1.21507,1.21507,0,0,0,.35084-.00872c.36288-.114.924-.08544.854-.64353-.06135-.48862-.53879-.52616-.96614-.5256Q20.45445,16.04205,16.75335,16.0388ZM16.736,24.627q2.58726,0,5.17453,0c.882,0,1.765.022,2.64534-.01687.20026-.00885.39121-.22856.58644-.35121-.12567-.19448-.21141-.44941-.38835-.56627a1.27272,1.27272,0,0,0-.6653-.11991q-7.23258-.009-14.46518.00043a2.09466,2.09466,0,0,0-.78923.12754c-.16239.06789-.37756.29993-.36127.43314.02155.17617.22533.35614.39206.478.09.06578.266.015.40315.015Q13.00211,24.6272,16.736,24.627Zm.0012-3.76477c2.58743,0,5.17493.00738,7.76218-.01483a.69669.69669,0,0,0,.5498-.33818c.04952-.17033-.11479-.43838-.2513-.61248-.06977-.089-.28267-.08964-.43091-.08976q-7.55649-.00625-15.113-.009c-.43414-.00075-.76421.15106-.79265.57757-.03352.50262.38217.4889.74877.48844Q12.97366,20.85925,16.73721,20.86226Zm.016,7.52948q2.76167,0,5.52335,0c.7247,0,1.45234.03592,2.17222-.02295a.824.824,0,0,0,.55987-.48187c.12656-.37616-.22777-.47473-.51274-.54544a1.74355,1.74355,0,0,0-.41-.00842Q16.741,27.33281,9.39614,27.333c-.11752,0-.23543-.00562-.35248.00194-.35849.02314-.63842.22844-.56866.56764.04.19441.36678.34469.586.47991.08524.05257.22976.00926.34728.00926Q13.08072,28.39177,16.75316,28.39174Zm6.04009,3.76468c1.25224,0,2.5045-.00451,3.75669.003.34059.002.6105.00211.61029-.47468-.00021-.479-.27429-.47275-.61258-.47208q-3.72735.00742-7.45471-.00109c-.30716-.00083-.62794-.00521-.63155.38621-.00345.37335.20274.57572.634.5672C20.32759,32.14059,21.56058,32.15637,22.79325,32.15642Z' transform='translate(-4.09048 -4.07885)'/><path d='M29.23764,23.49951c.65529-2.07544,1.288-4.08249,1.92276-6.08893.54234-1.71441,1.07723-3.4313,1.63842-5.13954a4.99784,4.99784,0,0,1,.517-1.01866.69977.69977,0,0,1,.37874-.24651,1.69355,1.69355,0,0,1,2.154,1.99763c-.50512,1.74607-1.08558,3.47046-1.64028,5.20206-.61857,1.931-1.259,3.85517-1.85479,5.79312-.1209.39327-.28425.44915-.62551.3321C30.91485,24.0519,30.09743,23.78558,29.23764,23.49951Z' transform='translate(-4.09048 -4.07885)'/><path d='M23.07262,4.81372l6.60962,6.37021H23.07262Z' transform='translate(-4.09048 -4.07885)'/><path d='M29.17445,28.57759V24.62816l2.49631.76906-2.34614,3.26414Z' transform='translate(-4.09048 -4.07885)'/><path d='M10.603,7.00584h6.16188v4.1628H10.603Z' transform='translate(-4.09048 -4.07885)'/></svg>",
+    "category-name": "Contrat",
+    "lesQuestions": [
+      {
+        "category": "Contrat",
+        "index" : "resilier_contrat",
+        "question": "Comment résilier mon contrat ?",
+        "reponse": "Les contrats Annexx sont sans engagement !<br><br>Vous pouvez résilier votre contrat sans frais de départ quand vous le souhaitez et en toute simplicité.<br><br>Quelles sont les étapes à suivre :<br><ul><li>Rendez-vous sur votre <a href='https://www.annexx.com/uai'>Espace Client</a> ou contactez vos conseillers par mail ou téléphone et indiquez la date de départ souhaitée.</li><li>Une fois la date de départ choisie, la date effective de votre fin de contrat sera calculée automatiquement, selon la date de départ que vous aurez sélectionnée.<br>La date de départ effective est située :<ul style='list-style-type : circle;'><li><strong>entre le 1<sup>er</sup> et le 14 du mois :</strong> votre contrat prendra <strong>fin le 15 du mois</strong></li><li><strong>entre le 15 et le dernier jour du mois :</strong> votre contrat prendra <strong>fin le dernier jour du mois</strong></li></ul></li></ul><br>Le saviez-vous : Un préavis de 15 jours est obligatoire, pensez à le prendre en compte lorsque vous choisissez votre date de départ."
+      },
+      {
+        "category": "Contrat",
+        "index" : "reserver_avant_location",
+        "question": "Dois-je réserver mon box avant de le louer ?",
+        "reponse": "Pas forcément. Cependant, nous vous recommandons de réserver le box que vous avez choisi quand vous avez décidé de faire appel à nos services de stockage. Ainsi, vous aurez la certitude qu'il sera disponible le jour où vous en aurez réellement besoin. Pour ce faire, rendez-vous sur notre <a href='https://www.annexx.com/box-garde-meuble/' target='_blank' rel='noopener'>page réservation</a>."
+      },
+      {
+        "category": "Contrat",
+        "index" : "duree_contrat_location",
+        "question": "Quelle est la durée du contrat de location ?",
+        "reponse": "Les contrats de location de box ont une durée d'un mois, tacitement renouvelable. Pour la durée d'engagement, il n'y en a pas : vous pouvez le résilier à tout moment et sans frais (préavis de 15 jours seulement).<br><br>Pensez-y : le contrat se termine :<br><ul><li>le 15 du mois si la date de départ est avant le 14</li><li>le dernier jour du mois si la date de départ est après le 15</li></ul>"
+      },
+      {
+        "category": "Contrat",
+        "index" : "document_a_presenter_signature",
+        "question": "Quels documents dois-je présenter pour la signature du contrat ?",
+        "reponse": "A la signature de votre contrat de location de box, vous devez présenter :<ul><li>une pièce d'identité valide</li><li>un relevé d'identité bancaire (RIB)</li><li>une attestation d'assurance (uniquement si vous choisissez de faire appel à votre assureur habituel.)</li></ul><p>Vous êtes un(e) professionnel(le) ? Vous devez nous fournir un KBis de moins de trois mois.</p>"
+      },
+      {
+        "category": "Contrat",
+        "index" : "moyens_paiement_acceptes",
+        "question": "Quels sont les moyens de paiement acceptés ?",
+        "reponse": "Pour simplifier le paiement de votre box, nous vous proposons le paiement automatique depuis votre carte de crédit ou par prélèvement. Nous acceptons également les règlements en espèces ou chèque directement dans notre espace accueil."
+      },
+      {
+        "category": "Contrat",
+        "index" : "facilites_paiement",
+        "question": "Quelles sont les facilités de paiement ?",
+        "reponse": "Pour rendre le paiement de votre loyer plus confortable, nous vous permettons de choisir parmi nos nombreux moyens de paiement autorisés. De plus, vous avez la possibilité de prépayer votre loyer jusqu'à 12 mois.<br>Pensez-y : Le jour où vous souhaitez résilier votre contrat, penser à nous fournir votre préavis au moins 15 jours avant la date de votre départ."
+      },
+      {
+        "category": "Contrat",
+        "index" : "changer_box_apres_placement",
+        "question": "Puis-je changer de box alors que j'ai déjà placé mes biens dans un box ?",
+        "reponse": "Tout à fait ! Vous pouvez changer de box de stockage pour un espace plus petit ou plus grand sans aucun frais (en fonction des disponibilités). Vos tarifs seront alors ajustés en fonction de la taille de votre nouvel espace de stockage."
+      },
+      {
+        "category": "Contrat",
+        "index" : "retard_paiement",
+        "question": "Je suis en retard dans le paiement de mon loyer, que faire ?",
+        "reponse": "Vous devez régler votre redevance entre le 1 et le 5 au soir de chaque mois. Au-delà de cette date et au bout de six jours de retard, des pénalités de retard sont alors appliquées conformément aux termes et conditions du Contrat. En cas de défaut de paiement, vous ne pouvez plus accéder à votre box.<br>En cas de retard ou de difficultés de paiement, contactez vos conseillers."
+      },
+      {
+        "category": "Contrat",
+        "index" : "probleme_redevances",
+        "question": "Je n'ai pas réglé mes redevances depuis plusieurs mois, que se passe-t-il ?",
+        "reponse": "Contactez les conseillers de votre centre de stockage le plus rapidement possible. En l’absence de nouvelles ou de règlement de votre part, votre espace de stockage peut être vidé et / ou mis en déchetterie."
+      },
+      {
+        "category": "Contrat",
+        "index" : "affaires_decheterrie",
+        "question": "Qu'est-ce qui se passe si mes affaires sont évacuées à la déchetterie ?",
+        "reponse": "Une fois votre box vidé suite à un défaut de paiement, votre compte est suspendu. Il n’y a alors plus de nouvelle redevance. En revanche, les sommes dues sont toujours exigibles."
+      },
+      {
+        "category": "Contrat",
+        "index" : "modalite_conditions_resiliations",
+        "question": "Quelles sont les modalités et conditions de résiliation ?",
+        "reponse": "Les contrats Annexx sont sans engagement. Vous pouvez résilier votre contrat quand vous le souhaitez ! Pour ce faire, rendez-vous sur votre <a href='https://www.annexx.com/uai'>Espace Client</a> ou contacter les conseillers de votre centre Annexx par mail ou téléphone et indiquez la date de départ souhaitée.<br><br><strong>Pensez-y :</strong> vous devez prévenir vos conseillers au moins 15 jours avant votre départ afin de respecter le préavis.<br><br><strong>Le saviez-vous ?</strong><br>Si votre date de départ effective se situe entre le 1<sup>er</sup> et le 14 du mois, votre contrat prendra fin le 15.<br>Si votre date de départ effective se situe entre le 15 et le dernier jour du mois, votre contrat prendra fin le dernier jour du mois."
+      },
+      {
+        "category": "Contrat",
+        "index" : "paiement_en_cours_mois",
+        "question": "Que dois-je payer si je rends mon box en cours de mois ?",
+        "reponse": "Si votre date de préavis se situe entre le 1er et le 14 du mois, votre contrat prendra fin le 15 du mois. Si la date se situe entre le 15 et le dernier jour du mois, votre contrat prendra fin le dernier jour du mois.<br><br>N'oubliez pas de contacter vos conseillers au moins 15 jours avant la date de départ souhaitée pour respecter le préavis.<br><br>Le saviez-vous : vous pouvez gérer votre demande de résiliation directement depuis votre <a href='https://www.annexx.com/uai'>Espace Client Annexx</a> !"
+      }
+    ]
+  }
+]
